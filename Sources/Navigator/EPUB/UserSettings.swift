@@ -88,7 +88,7 @@ public class UserSettings {
         fontSize: Float = 100,
         fontFamily: Int = 0,
         appearance: Int = 0,
-        verticalScroll: Bool = false,
+        verticalScroll: Bool = true,
         publisherDefaults: Bool = true,
         textAlignment: Int = 0,
         columnCount: Int = 0,
